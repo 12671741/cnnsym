@@ -1,2 +1,2 @@
-model_checkpoint_path: "/Users/tingjiejameszhang/python/cnnsym/model/symb.model"
-all_model_checkpoint_paths: "/Users/tingjiejameszhang/python/cnnsym/model/symb.model"
+model_checkpoint_path: "/root/cnnsym/model/symb.model"
+all_model_checkpoint_paths: "/root/cnnsym/model/symb.model"
